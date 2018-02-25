@@ -1,2 +1,10 @@
 # PHP4Rookies
-Building a framework from ground up
+## ToDo's
+* Autoloading classes 
+* Bootstrapping application
+* Dependency injection container 
+* PHPUnit einrichten 
+* Request/Response objects** 
+* Template engine
+* Database connection and schema
+* Implementing the guestbook logic
